@@ -16,7 +16,7 @@ I’m passionate about **AI and Bioinformatics**, exploring how technology can s
 
 # 📊 GitHub Stats:
 
-![Abhirami's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiramiE&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbhiramiE&theme=tokyonight&hide_border=true)
 
