@@ -23,7 +23,7 @@ I’m passionate about **AI and Bioinformatics**, exploring how technology can s
 
 # 📈 Contribution Graph:
 
-[![Abhirami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiramiE&theme=tokyo-night&hide_border=true)](https://github.com/AbhiramiE)
+![GitHub 3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiramiE&theme=tokyonight)
 
 
 # 💻 Skills:
