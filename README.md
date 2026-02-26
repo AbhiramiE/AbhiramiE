@@ -20,8 +20,6 @@ I’m passionate about **AI and Bioinformatics**, exploring how technology can s
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbhiramiE&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramiE&layout=compact&theme=tokyonight&hide_border=true)
-
 
 # 📈 Contribution Graph:
 
